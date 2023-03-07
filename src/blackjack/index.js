@@ -31,10 +31,6 @@ const puntosHTML = document.querySelectorAll('small');
 
 deck = crearDeck(tipos, especiales);
 
-// turno de la computadora
-
-
-
 
 // Eventos
 btnPedir.addEventListener('click', () => {
